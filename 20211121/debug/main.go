@@ -1,9 +1,10 @@
 package main
 
 import (
-	"GoWorks/GoDbg/mylib"
 	"fmt"
 	"os"
+
+	"github.com/learning-golang/debug/mylib"
 )
 
 func main() {
